@@ -21,3 +21,11 @@ For packing update.zip, just zip the update directory.
 
 Keep eyes on the notification LED on the top of ZenFone, when it turns red 
 during boot, press volume UP or DOWN and wait for seconds.
+
+#### Known issues
+
+Not fully tested, use on your own risk.
+
+#### Reference
+
+http://23pin.logdown.com/posts/211564-cwm-recovery-for-zenfone-5-poc (Chinese)
